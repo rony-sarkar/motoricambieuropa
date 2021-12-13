@@ -9,7 +9,12 @@ body {
     font-family: 'Open Sans', sans-serif;
     color: #000;
 }
-
+.product-image-item {
+width: 19%;
+float: left;
+margin-left: 10px;
+margin-top: 10px;
+}
 a,
 a:hover,
 a:focus {
